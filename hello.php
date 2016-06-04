@@ -5,7 +5,7 @@
 <body>
 	<h1>Seja bem-vindo</h1>
 	<h2>Informe seus dados</h2>
-	<form method='POST' action=''>
+	<form method='POST' action='resposta.php'>
 		<label>Nome:</label>
 		<input name='nome_usuario' type = 'text'>
 		<label>Email</label>
